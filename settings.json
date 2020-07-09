@@ -1,0 +1,255 @@
+{
+    "C_Cpp.default.browse.path": [
+        "C:\\Program Files (x86)\\Arduino\\libraries\\**"
+    ],
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "arduino.additionalUrls": [
+        "http://arduino.esp8266.com/stable/package_esp8266com_index.json"
+    ],
+    "arduino.path": "C:\\Program Files (x86)\\Arduino",
+    "atomKeymap.promptV3Features": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnPaste": true,
+    "editor.lineHeight": 0,
+    "editor.minimap.enabled": true,
+    "editor.mouseWheelZoom": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "none",
+    "editor.suggestSelection": "first",
+    
+    "editor.tokenColorCustomizations": {
+        "[Atom One Dark]": {
+            
+        },
+        "[Predawn]": {
+            "comments": "#949494",
+            
+            "keywords": "#eca14a",
+            "variables": "#eca14a",
+            
+        
+            
+
+        },
+
+        
+
+        "[Material Theme]": {
+            
+
+            "textMateRules": [
+                {
+                    "scope": [
+                        "comment",
+                        "keyword",
+                        "keyword.control"
+                    ],
+                    "settings": {
+                        "fontStyle": ""
+                    }
+                },
+                {
+                    "scope": [
+                        "keyword.operator.arithmetic",
+                        "meta.function-call.arguments",
+                        "keyword.operator.assignment.python"
+                        
+
+                    ],
+                    
+                    "settings": {
+                        "foreground": "#ffffff"
+                    }
+                },
+                {
+                    "scope": "punctuation",
+                    "settings": {
+                        "foreground": "#e7e7e7"
+                    }
+                },
+                {
+                    "scope": [
+                        "meta.function-call",
+                        "punctuation.definition.decorator.python",
+                        "meta.function.decorator.python",
+                        "support.type.python",
+                        "entity.name.function.decorator.python",
+                        "meta.function-call.python",
+                        "support.function.builtin.python",
+                        "entity.name.function.python",
+                        "support.function.magic.python"
+                    ],
+                    "settings": {
+                        "foreground": "#89DDFF"
+                    }
+                },
+                {
+                    "scope": [
+                        "comment",
+                        "punctuation.definition.string.begin.python",
+                        "string.quoted.docstring.multi.python",
+                        "string.quoted.docstring.multi.python",
+                        "punctuation.definition.string.end.python",
+                        "punctuation.definition.comment.python"
+                    ],
+
+                    "settings": {
+                        "foreground": "#797979",
+                        "fontStyle": ""
+                    }
+                    
+                },
+                {
+                    "scope": [
+                        "punctuation.definition.string.end.python",
+                        "punctuation.definition.string.begin.python",
+                        "punctuation.definition.string.begin",
+                        "punctuation.definition.string.end",
+                    ],
+                    "settings": {
+                        "foreground": "#C3E88D"
+                    },
+                    
+                }
+
+                {
+                    "scope": [
+                    "variable.parameter.function-call.python",
+                    ],
+                    "settings": {
+                        "foreground": "#F78C6C",
+                        
+                    }
+
+                }
+            ],
+            
+        }
+        
+    },
+    "explorer.confirmDelete": false,
+    "java.help.firstView": "gettingStarted",
+    "java.home": "C:\\Users\\Manuel\\AppData\\Local\\Programs\\AdoptOpenJDK",
+    "kite.showWelcomeNotificationOnStartup": false,
+    "materialTheme.accent": "Blue",
+    
+    "python.jediEnabled": false,
+    //"python.pythonPath": "C:\\Users\\Manuel\\Anaconda3",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.zoomLevel": 0,
+    
+    "workbench.colorCustomizations": {
+        "[Predawn]": {
+            "editor.background": "#1d1e1f",
+            "statusBar.background": "#1c636d"
+
+        },
+
+        "[Material Theme]": {
+            "activityBar.activeBorder": "#292b2e",
+            "terminal.border": "#292b2e",
+            "panel.border": "#292b2e",
+            "sideBar.border": "#292b2e",
+            "editorLineNumber.foreground": "#404446",
+            "titleBar.border": "#292b2e",
+            "activityBar.border": "#292b2e",
+            "menu.border": "#292b2e",
+
+            //"editor.background": "#292b2e",
+            "editor.background": "#242729",
+            "editor.selectionBackground": "#4e6169",
+            "activityBar.background": "#292b2e",
+            "breadcrumb.background": "#292b2e",
+            "badge.background": "#292b2e",
+            "dropdown.background": "#292b2e",
+            "editorWidget.background": "#292b2e",
+            "window.activeBorder": "#292b2e",
+            "titleBar.activeBackground": "#292b2e",
+            "titleBar.inactiveBackground": "#292b2e",
+            "titleBar.inactiveForeground": "#888888",
+            "menu.background": "#292b2e",
+            "sideBar.background": "#292b2e",
+            "terminal.background": "#292b2e",
+            "editorPane.background": "#292b2e",
+            "tab.inactiveBackground": "#292b2e",
+            "list.focusBackground": "#303336",
+            "list.inactiveFocusBackground": "#292b2e",
+            "list.hoverBackground": "#313336",
+            "editorSuggestWidget.background": "#292b2e",
+            "editorGroup.dropBackground": "#5cbddb4f",
+            "tab.border": "#292b2e",
+            "notifications.background": "#2f3135",
+            "quickInput.background": "#292b2e",
+            "quickInput.foreground": "#999ca0",
+            "panel.background": "#292b2e",
+            "sideBarSectionHeader.background": "#303336",
+            "sideBar.foreground": "#8a8d91",
+            "breadcrumb.foreground": "#8698a0",
+            "statusBar.background": "#383c42", 
+            "statusBar.foreground": "#ced6da",
+            "tab.inactiveForeground": "#a7a8aa",
+            "tab.activeBackground": "#313336",
+            "tab.hoverBackground": "#34363a",
+            "sideBarTitle.foreground": "#8a8d91", 
+            "sideBarSectionHeader.foreground": "#c3c5c7",
+            "dropdown.listBackground": "#8a8d91",
+            "editorGroupHeader.tabsBackground": "#292b2e",
+            "editorHoverWidget.background": "#292b2e",
+            "input.background": "#292b2e",
+            "peekViewEditor.background": "#292b2e",
+
+            
+        },
+
+        
+        
+        "[Atom One Dark]": {
+            "editor.background": "#1a1d21",
+            "menu.background": "#252a30",
+            "activityBar.background": "#282f38",
+            
+            
+            "editorGroupHeader.tabsBorder": "#242631",
+            "sideBar.background": "#1b1f24",
+            "sideBarSectionHeader.background": "#21242b",
+            
+            
+
+        }
+        ,
+        "activityBarBadge.background": "#2979FF",
+        "breadcrumb.activeSelectionForeground": "#2979FF",
+        //"editor.background": "#1f1f1f",
+        "editor.findMatchBorder": "#2979FF",
+        "editorSuggestWidget.highlightForeground": "#2979FF",
+        "editorWidget.border": "#2979FF",
+        "editorWidget.resizeBorder": "#2979FF",
+        "list.activeSelectionForeground": "#2979FF",
+        "list.highlightForeground": "#2979FF",
+        "list.inactiveSelectionForeground": "#2979FF",
+        "menu.selectionForeground": "#2979FF",
+        "menubar.selectionForeground": "#2979FF",
+        "notificationLink.foreground": "#2979FF",
+        "panelTitle.activeBorder": "#2979FF",
+        "pickerGroup.foreground": "#2979FF",
+        "progressBar.background": "#2979FF",
+        "scrollbarSlider.activeBackground": "#2979FF50",
+        "selection.background": "#2979FF40",
+        "settings.headerForeground": "#2979FF",
+        "settings.modifiedItemIndicator": "#2979FF",
+        "tab.activeBorder": "#2979FF",
+        "textLink.foreground": "#2979FF",
+        
+        
+    },
+    "workbench.colorTheme": "Material Theme",
+    "python.condaPath": "C:\\Users\\Manuel\\Anaconda3\\_conda.exe",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "workbench.tree.indent": 10,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.editor.labelFormat": "short",
+    "breadcrumbs.enabled": true,
+    "python.languageServer": "Microsoft"
+}
